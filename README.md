@@ -9,3 +9,7 @@ Basic resources will get created with this chart - deployment & service
 helm repo add plutono https://credativ.github.io/helmcharts/charts
 
 helm repo update
+
+Usage:
+
+helm install my-plutono plutono/plutono
